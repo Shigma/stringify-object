@@ -1,14 +1,10 @@
 {
-	"name": "stringify-object",
+	"name": "@shigma/stringify-object",
 	"version": "3.3.0",
 	"description": "Stringify an object/array like JSON.stringify just without all the double-quotes",
 	"license": "BSD-2-Clause",
 	"repository": "yeoman/stringify-object",
-	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
-	},
+	"author": "shigma <1700011071@pku.edu.cn>",
 	"engines": {
 		"node": ">=6"
 	},

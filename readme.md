@@ -1,4 +1,6 @@
-# stringify-object [![Build Status](https://secure.travis-ci.org/yeoman/stringify-object.svg?branch=master)](http://travis-ci.org/yeoman/stringify-object)
+# stringify-object
+
+**This is forked from [stringify-object](https://github.com/yeoman/stringify-object) to [fix wrong function interpretation](https://github.com/yeoman/stringify-object/pull/65).**
 
 > Stringify an object/array like JSON.stringify just without all the double-quotes
 
